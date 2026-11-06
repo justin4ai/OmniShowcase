@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/dee18f10-94d9-419f-ac2e-636b58062d1c
 
 ## 🚀 Code Release
 
-Release of OmniShowcase is scheduled as follows:
+The following OmniShowcase components are planned for release:
 
 - ⬜ Showcase-4K (training dataset)
 - ⬜ ShowcaseBench (evaluation benchmark)
